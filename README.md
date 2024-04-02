@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I recently retired from special needs teaching and I am currently exploring a new role. I trained as a
+counsellor and life coach and have experience of working with a variety of age groups in this field and
+I am interested in developing educational and mental health resources,which include exploring using Unity to create interatcive VR environments. In the past I has created interative phonics games using Adobe flash and action script. I'm now learning HTML, pyython and javascrpt.
 <!--
 **eduflash/eduflash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
